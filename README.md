@@ -7,21 +7,17 @@
 📚 Documenting everything
 <br>
 🎯 Building strong foundations through consistency
-<br>
----
 
 ## About Me
 - Learning SQL one query at a time
 - Improving Git & GitHub workflow
 - Currently building small beginner-friendly projects
----
 
 ## 🛠️ Tech & Tools
 - SQL
 - Git & GitHub
 - Excel
 - VS Code
----
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/ananya-pradhan-data-analyst/)
