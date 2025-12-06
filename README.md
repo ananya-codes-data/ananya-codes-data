@@ -1,6 +1,6 @@
 # 👋 Hi! I'm **Ananya Pradhan**
 <br>
-🌱Data Analytics enthusiast
+🌱 Data Analytics enthusiast
 <br>
 💻 Learning SQL, Git/GitHub, and building beginner-friendly projects
 <br>
@@ -8,7 +8,7 @@
 <br>
 🎯 Building strong foundations through consistency
 
-## About Me
+## 🌠 About Me
 - Learning SQL one query at a time
 - Improving Git & GitHub workflow
 - Currently building small beginner-friendly projects
@@ -19,7 +19,7 @@
 - Excel
 - VS Code
 
-## Connect
+## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/ananya-pradhan-data-analyst/)
 - [GitHub](https://github.com/ananya-codes-data)
 
