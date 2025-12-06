@@ -7,6 +7,7 @@
 📚 Documenting everything
 <br>
 🎯 Building strong foundations through consistency
+<br>
 ---
 
 ## About Me
