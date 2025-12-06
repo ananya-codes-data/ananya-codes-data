@@ -1,4 +1,29 @@
-# 👋 Hi! I'm Ananya Pradhan
+# 👋 Hi! I'm **Ananya Pradhan**
+<br>
+🌱Data Analytics enthusiast
+<br>
+💻 Learning SQL, Git/GitHub, and building beginner-friendly projects
+<br>
+📚 Documenting everything
+🎯 Building strong foundations through consistency
+---
+
+## About Me
+- Learning SQL one query at a time
+- Improving Git & GitHub workflow
+- Currently building small beginner-friendly projects
+---
+
+## 🛠️ Tech & Tools
+- SQL
+- Git & GitHub
+- Excel
+- VS Code
+---
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/ananya-pradhan-data-analyst/)
+- [GitHub](https://github.com/ananya-codes-data)
 
 <!--
 **ananya-codes-data/ananya-codes-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
