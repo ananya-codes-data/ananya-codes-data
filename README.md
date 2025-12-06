@@ -5,6 +5,7 @@
 💻 Learning SQL, Git/GitHub, and building beginner-friendly projects
 <br>
 📚 Documenting everything
+<br>
 🎯 Building strong foundations through consistency
 ---
 
