@@ -1,31 +1,37 @@
 # 👋 Hi! I'm **Ananya Pradhan**
-<br>
+
 🌱 Data Analytics enthusiast
-<br>
+
 💻 Learning SQL, Git/GitHub, and building beginner-friendly projects
-<br>
+
 📚 Documenting everything
-<br>
+
 🎯 Building strong foundations through consistency
 
 ## 🌠 About Me
+
 - Learning SQL one query at a time
 - Improving Git & GitHub workflow
 - Currently building small beginner-friendly projects
 
 ## 🛠️ Tech & Tools
+
 - SQL
 - Git & GitHub
 - Excel
 - VS Code
 
 ## 🌐 Connect
+
 - [LinkedIn](https://www.linkedin.com/in/ananya-pradhan-data-analyst/)
 - [GitHub](https://github.com/ananya-codes-data)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ananya-codes-data&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ananya-codes-data&theme=tokyonight&hide_border=true)<br/>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ananya-codes-data&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ananya-codes-data&theme=tokyonight&hide_border=true)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-codes-data&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
