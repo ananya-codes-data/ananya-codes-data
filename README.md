@@ -14,10 +14,10 @@
 - Currently building small beginner-friendly projects
 
 ## 🛠️ Tech & Tools
--SQL
--Git & GitHub
--Excel
--VS Code
+- SQL
+- Git & GitHub
+- Excel
+- VS Code
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/ananya-pradhan-data-analyst/)
