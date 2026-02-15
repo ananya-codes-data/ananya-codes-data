@@ -1,6 +1,6 @@
 # 👋 Hi! I'm **Ananya Pradhan**
 
-🌱 Data Analytics enthusiast
+🌱 Data Science enthusiast
 <br>
 💻 Learning SQL, Git/GitHub, and building beginner-friendly projects
 <br>
