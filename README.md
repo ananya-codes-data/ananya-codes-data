@@ -1,8 +1,8 @@
 # 👋 Hi! I'm **Ananya Pradhan**
 
-🌱 Data Science enthusiast
+🌱 AI-ML enthusiast
 <br>
-💻 Learning SQL, Git/GitHub, and building beginner-friendly projects
+💻 Learning Python, SQL, Git/GitHub, and building beginner-friendly projects
 <br>
 📚 Documenting everything
 <br>
