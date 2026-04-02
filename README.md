@@ -3,16 +3,10 @@
 🌱 AI-ML enthusiast
 <br>
 💻 Learning Python, SQL, Git/GitHub, and building beginner-friendly projects
-<br>
-📚 Documenting everything
-<br>
-🎯 Building strong foundations through consistency
 
-## 🌠 About Me
+## 🧠 Currently Working On
 
-- Learning SQL one query at a time
-- Improving Git & GitHub workflow
-- Currently building small beginner-friendly projects
+- Excel data analytics projects
 
 ## 🛠️ Tech & Tools
 
@@ -34,6 +28,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **ananya-codes-data/ananya-codes-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 🌠 About Me
+
+- Learning SQL one query at a time
+- Improving Git & GitHub workflow
+- Currently building small beginner-friendly projects
 
 Here are some ideas to get you started:
 
