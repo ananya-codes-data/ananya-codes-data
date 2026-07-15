@@ -2,17 +2,20 @@
 
 🌱 AI-ML enthusiast
 <br>
-💻 Learning Python, SQL, Git/GitHub, and building beginner-friendly projects
+💻 Learning Python, SQL, Git/GitHub, and building portfolio ready projects
 
 ## 🧠 Currently Working On
 
-- Excel data analytics projects
+- End to end data analytics projects
+- Data cleaning projects
 
 ## 🛠️ Tech & Tools
 
 - SQL
+- Python
 - Git & GitHub
 - Excel
+- Power BI
 - VS Code
 
 ## 🌐 Connect
